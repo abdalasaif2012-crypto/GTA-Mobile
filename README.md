@@ -1,4 +1,4 @@
-# GTA-Mobile
+# Shadow City
 
 An open-world 3D mobile game prototype developed in Godot 4.4.
 
